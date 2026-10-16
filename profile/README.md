@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://claude.ai/artifact/Ru1noVX6cw5ZqbZyP5KiJz"><b>Live demo</b></a> ·
-  <a href="./BRICKED-UI-STYLE-GUIDE.md"><b>Style guide</b></a> ·
+  <a href="https://bricked-ui.vercel.app"><b>Live demo</b></a> ·
+  <a href="https://github.com/bricked-ui/ui/blob/main/DESIGN.md"><b> Design guide </b></a>
   <a href="#components"><b>Components</b></a> ·
   <a href="#contributing"><b>Contributing</b></a>
 </p>
