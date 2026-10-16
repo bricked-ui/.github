@@ -3,14 +3,13 @@
 </p>
 
 <p align="center">
-  <b>A pixel-art React UI kit built from orange bricks.</b><br>
-  No rounded corners. No borders. No blur. Just hard pixels, cut corners and mortar lines.
+  <b>A pixel-art UI kit built from orange bricks.</b><br>
+  A chunky pixel-art kit for React and Svelte apps. Pick any of the 91 pieces — or the 51-piece Svelte registry — paste it into your project, and ship something with character.
 </p>
 
 <p align="center">
-  <img alt="components" src="https://img.shields.io/badge/components-50-ff8a1f?style=flat-square&labelColor=2b1100">
+  <img alt="components" src="https://img.shields.io/badge/components-90-ff8a1f?style=flat-square&labelColor=2b1100">
   <img alt="react" src="https://img.shields.io/badge/react-18%2B-ff8a1f?style=flat-square&labelColor=2b1100">
-  <img alt="radius" src="https://img.shields.io/badge/border--radius-0-ff8a1f?style=flat-square&labelColor=2b1100">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-ff8a1f?style=flat-square&labelColor=2b1100">
 </p>
 
